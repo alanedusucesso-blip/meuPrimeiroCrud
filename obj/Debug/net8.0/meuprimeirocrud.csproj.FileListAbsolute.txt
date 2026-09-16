@@ -31,3 +31,4 @@ C:\Users\alane_2hevz84\Desktop\programação\repositorio\meuprimeirocrud\obj\Deb
 C:\Users\alane_2hevz84\Desktop\programação\repositorio\meuprimeirocrud\obj\Debug\net8.0\meuprimeirocrud.pdb
 C:\Users\alane_2hevz84\Desktop\programação\repositorio\meuprimeirocrud\obj\Debug\net8.0\meuprimeirocrud.genruntimeconfig.cache
 C:\Users\alane_2hevz84\Desktop\programação\repositorio\meuprimeirocrud\obj\Debug\net8.0\ref\meuprimeirocrud.dll
+C:\Users\alane_2hevz84\Desktop\programação\repositorio\meuprimeirocrud\obj\Debug\net8.0\meuprimeirocrud.sourcelink.json
